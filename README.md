@@ -8,3 +8,4 @@ Most practices will be from hackerrank.com and leetcode.com challenges.
 - PlayWithCharacters.c
 - SumAndDifference.c
 - MaxOfFour.c
+- Pointers.c
