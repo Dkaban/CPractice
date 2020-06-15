@@ -7,6 +7,7 @@ Most practices will be from hackerrank.com and leetcode.com challenges.
 ### Contains
 *In Order of Most Recent to Oldest*
 
+- SumOfDigits.c
 - ForLoop.c
 - ConditionalStatements.c
 - Pointers.c
